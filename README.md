@@ -1,1 +1,3 @@
-# teste-git
+# Projecto Teste
+
+Este repositorio etc...
